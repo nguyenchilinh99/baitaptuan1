@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="JPfull" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="JPfull" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="java.awt.Panel" name="JPfull">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignBorderLayout"/>
+      <SubComponents>
+        <Container class="java.awt.Panel" name="JPtren">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="cc" red="99" type="rgb"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignBorderLayout" value="org.netbeans.modules.form.compat2.layouts.DesignBorderLayout$BorderConstraintsDescription">
+              <BorderConstraints direction="North"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+          <SubComponents>
+            <Component class="java.awt.Label" name="label1">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="33" green="33" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="TR&#xd2; CH&#x1a0;I X&#x1ebe;P &#xd4; S&#x1ed0;"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="java.awt.Panel" name="JPcuoi">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="cc" type="rgb"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignBorderLayout" value="org.netbeans.modules.form.compat2.layouts.DesignBorderLayout$BorderConstraintsDescription">
+              <BorderConstraints direction="South"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+          <SubComponents>
+            <Component class="java.awt.Label" name="label2">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B&#x1eaf;t &#x111;&#x1ea7;u"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="java.awt.Panel" name="JPgiua">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignBorderLayout" value="org.netbeans.modules.form.compat2.layouts.DesignBorderLayout$BorderConstraintsDescription">
+              <BorderConstraints direction="Center"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignGridLayout">
+            <Property name="columns" type="int" value="4"/>
+            <Property name="rows" type="int" value="4"/>
+          </Layout>
+          <SubComponents>
+            <Component class="java.awt.Button" name="s15">
+              <Properties>
+                <Property name="label" type="java.lang.String" value="15"/>
+              </Properties>
+            </Component>
+            <Component class="java.awt.Button" name="s14">
+              <Properties>
+                <Property name="label" type="java.lang.String" value="14"/>
+              </Properties>
+            </Component>
+            <Component class="java.awt.Button" name="s13">
+              <Properties>
+                <Property name="label" type="java.lang.String" value="13"/>
+              </Properties>
+            </Component>
+            <Component class="java.awt.Button" name="s12">
+              <Properties>
+                <Property name="label" type="java.lang.String" value="12"/>
+              </Properties>
+            </Component>
+            <Component class="java.awt.Button" name="s11">
+              <Properties>
+                <Property name="label" type="java.lang.String" value="11"/>
+              </Properties>
+            </Component>
+            <Component class="java.awt.Button" name="so10">
+              <Properties>
+                <Property name="label" type="java.lang.String" value="10"/>
+              </Properties>
+            </Component>
+            <Component class="java.awt.Button" name="so9">
+              <Properties>
+                <Property name="label" type="java.lang.String" value="9"/>
+              </Properties>
+            </Component>
+            <Component class="java.awt.Button" name="so8">
+              <Properties>
+                <Property name="label" type="java.lang.String" value="8"/>
+              </Properties>
+            </Component>
+            <Component class="java.awt.Button" name="so7">
+              <Properties>
+                <Property name="label" type="java.lang.String" value="7"/>
+              </Properties>
+            </Component>
+            <Component class="java.awt.Button" name="so6">
+              <Properties>
+                <Property name="label" type="java.lang.String" value="6"/>
+              </Properties>
+            </Component>
+            <Component class="java.awt.Button" name="so5">
+              <Properties>
+                <Property name="label" type="java.lang.String" value="5"/>
+              </Properties>
+            </Component>
+            <Component class="java.awt.Button" name="so4">
+              <Properties>
+                <Property name="label" type="java.lang.String" value="4"/>
+              </Properties>
+            </Component>
+            <Component class="java.awt.Button" name="so3">
+              <Properties>
+                <Property name="label" type="java.lang.String" value="3"/>
+              </Properties>
+            </Component>
+            <Component class="java.awt.Button" name="so2">
+              <Properties>
+                <Property name="label" type="java.lang.String" value="2"/>
+              </Properties>
+            </Component>
+            <Component class="java.awt.Button" name="so1">
+              <Properties>
+                <Property name="label" type="java.lang.String" value="1"/>
+              </Properties>
+            </Component>
+            <Component class="java.awt.Button" name="tr&#x1ed1;ng">
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
